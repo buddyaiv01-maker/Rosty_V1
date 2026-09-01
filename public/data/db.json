@@ -1,0 +1,1991 @@
+{
+  "fetchedAt": "2026-09-01T09:55:09.064Z",
+  "titles": [
+    {
+      "id": "tt1375666",
+      "title": "Inception",
+      "year": "2010",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "148 min",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "director": "Christopher Nolan",
+      "writer": "Christopher Nolan",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
+      ],
+      "synopsis": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible, inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea, but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming.",
+      "language": "English, Japanese, French",
+      "country": "United Kingdom, United States",
+      "awards": "Won 4 Oscars. 160 wins & 220 nominations total",
+      "imdbRating": "8.8",
+      "imdbVotes": "2,811,614",
+      "ratings": {
+        "imdb": "8.8/10",
+        "rottenTomatoes": "86%",
+        "metacritic": "74/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt1375666.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt0468569",
+      "title": "The Dark Knight",
+      "year": "2008",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "152 min",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "synopsis": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as \"The Joker\" appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to \"confront everything he believes\" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes.",
+      "language": "English, Mandarin",
+      "country": "United States, United Kingdom",
+      "awards": "Won 2 Oscars. 163 wins & 165 nominations total",
+      "imdbRating": "9.1",
+      "imdbVotes": "3,161,907",
+      "ratings": {
+        "imdb": "9.1/10",
+        "rottenTomatoes": "94%",
+        "metacritic": "85/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0468569.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "year": "2014",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "169 min",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "director": "Christopher Nolan",
+      "writer": "Jonathan Nolan, Christopher Nolan",
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "synopsis": "In the near future around the American Midwest, Cooper, an ex-science engineer and pilot, is tied to his farming land with his daughter Murph and son Tom. As devastating sandstorms ravage Earth's crops, the people of Earth realize their life here is coming to an end as food begins to run out. Eventually stumbling upon a N.A.S.A. base 6 hours from Cooper's home, he is asked to go on a daring mission with a few other scientists into a wormhole because of Cooper's scientific intellect and ability to pilot aircraft unlike the other crew members. In order to find a new home while Earth decays, Cooper must decide to either stay, or risk never seeing his children again in order to save the human race by finding another habitable planet.",
+      "language": "English",
+      "country": "United States, United Kingdom, Canada",
+      "awards": "Won 1 Oscar. 45 wins & 148 nominations total",
+      "imdbRating": "8.7",
+      "imdbVotes": "2,516,752",
+      "ratings": {
+        "imdb": "8.7/10",
+        "rottenTomatoes": "73%",
+        "metacritic": "74/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0816692.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt6751668",
+      "title": "Parasite",
+      "year": "2019",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "132 min",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Bong Joon Ho",
+      "writer": "Bong Joon Ho, Han Jin-won",
+      "actors": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong"
+      ],
+      "synopsis": "The Kims - mother and father Chung-sook and Ki-taek, and their young adult offspring, son Ki-woo and daughter Ki-jung - are a poor family living in a shabby and cramped half basement apartment in a busy lower working class commercial district of Seoul. Without even knowing it, they, especially Mr. and Mrs. Kim, literally smell of poverty. Often as a collective, they perpetrate minor scams to get by, and even when they have jobs, they do the minimum work required. Ki-woo is the one who has dreams of getting out of poverty by one day going to university. Despite not having that university education, Ki-woo is chosen by his university student friend Min, who is leaving to go to school, to take over his tutoring job to Park Da-hye, who Min plans to date once he returns to Seoul and she herself is in university. The Parks are a wealthy family who for four years have lived in their modernistic house designed by and the former residence of famed architect Namgoong. While Mr. and Mrs. Park are all about status, Mrs. Park has a flighty, simpleminded mentality and temperament, which Min tells Ki-woo to feel comfortable in lying to her about his education to get the job. In getting the job, Ki-woo further learns that Mrs. Park is looking for an art therapist for the Parks' adolescent son, Da-song, Ki-woo quickly recommending his professional art therapist friend \"Jessica\", really Ki-jung who he knows can pull off the scam in being the easiest liar of the four Kims. In Ki-woo also falling for Da-hye, he begins to envision himself in that house, and thus the Kims as a collective start a plan for all the Kims, like Ki-jung using assumed names, to replace existing servants in the Parks' employ in orchestrating reasons for them to be fired. The most difficult to get rid of may be Moon-gwang, the Parks' housekeeper who literally came with the house - she Namgoong's housekeeper when he lived there - and thus knows all the little nooks and crannies of it better than the Parks themselves. The question then becomes how far the Kims can take this scam in their quest to become their version of the Parks.",
+      "language": "Korean, English",
+      "country": "South Korea",
+      "awards": "Won 4 Oscars. 309 wins & 261 nominations total",
+      "imdbRating": "8.5",
+      "imdbVotes": "1,148,210",
+      "ratings": {
+        "imdb": "8.5/10",
+        "rottenTomatoes": "99%",
+        "metacritic": "97/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt6751668.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt2278388",
+      "title": "The Grand Budapest Hotel",
+      "year": "2014",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "99 min",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Wes Anderson",
+      "writer": "Stefan Zweig, Wes Anderson, Hugo Guinness",
+      "actors": [
+        "Ralph Fiennes",
+        "F. Murray Abraham",
+        "Mathieu Amalric"
+      ],
+      "synopsis": "This movie recounts the adventures of M. Gustave, a legendary concierge at a famous European hotel between the wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend. The story involves the theft and recovery of a priceless Renaissance painting and the battle for an enormous family fortune - all against the backdrop of a suddenly and dramatically changing continent.",
+      "language": "English, French, German",
+      "country": "United States, Germany",
+      "awards": "Won 4 Oscars. 137 wins & 227 nominations total",
+      "imdbRating": "8.1",
+      "imdbVotes": "968,286",
+      "ratings": {
+        "imdb": "8.1/10",
+        "rottenTomatoes": "92%",
+        "metacritic": "88/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt2278388.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt1392190",
+      "title": "Mad Max: Fury Road",
+      "year": "2015",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "120 min",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "director": "George Miller",
+      "writer": "George Miller, Brendan McCarthy, Nick Lathouris",
+      "actors": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult"
+      ],
+      "synopsis": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and almost everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order. There's Max, a man of action and a man of few words, who seeks peace of mind following the loss of his wife and child in the aftermath of the chaos. And Furiosa, a woman of action and a woman who believes her path to survival may be achieved if she can make it across the desert back to her childhood homeland.",
+      "language": "English, Russian",
+      "country": "Australia, United States",
+      "awards": "Won 6 Oscars. 245 wins & 234 nominations total",
+      "imdbRating": "8.1",
+      "imdbVotes": "1,198,396",
+      "ratings": {
+        "imdb": "8.1/10",
+        "rottenTomatoes": "97%",
+        "metacritic": "90/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt1392190.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt2582802",
+      "title": "Whiplash",
+      "year": "2014",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "106 min",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "director": "Damien Chazelle",
+      "writer": "Damien Chazelle",
+      "actors": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Melissa Benoist"
+      ],
+      "synopsis": "Nineteen year old Andrew Niemann wants to be the greatest jazz drummer in the world, in a league with Buddy Rich. This goal is despite not coming from a pedigree of greatest, musical or otherwise, with Jim, his high school teacher father, being a failed writer. Andrew is starting his first year at Shaffer Conservatory of Music, the best music school in the United States. At Shaffer, being the best means being accepted to study under Terence Fletcher and being asked to play in his studio band, which represents the school at jazz competitions. Based on their less than positive first meeting, Andrew is surprised that Fletcher asks him to join the band, albeit in the alternate drummer position which he is more than happy to do initially. Andrew quickly learns that Fletcher operates on fear and intimidation, never settling for what he considers less than the best each and every time. Being the best in Fletcher's mind does not only entail playing well, but knowing that you're playing well and if not what you're doing wrong. His modus operandi creates an atmosphere of fear and of every man or woman for him/herself within the band. Regardless, Andrew works hard to be the best. He has to figure out his life priorities and what he is willing to sacrifice to be the best. The other question becomes how much emotional abuse he will endure by Fletcher to reach that greatness, which he may believe he can only achieve with the avenues opened up by Fletcher.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 3 Oscars. 100 wins & 144 nominations total",
+      "imdbRating": "8.5",
+      "imdbVotes": "1,134,459",
+      "ratings": {
+        "imdb": "8.5/10",
+        "rottenTomatoes": "94%",
+        "metacritic": "89/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt2582802.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt5052448",
+      "title": "Get Out",
+      "year": "2017",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "104 min",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "Jordan Peele",
+      "writer": "Jordan Peele",
+      "actors": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Bradley Whitford"
+      ],
+      "synopsis": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+      "language": "English, Swahili",
+      "country": "United States, Japan",
+      "awards": "Won 1 Oscar. 154 wins & 214 nominations total",
+      "imdbRating": "7.8",
+      "imdbVotes": "814,293",
+      "ratings": {
+        "imdb": "7.8/10",
+        "rottenTomatoes": "98%",
+        "metacritic": "85/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt5052448.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt3783958",
+      "title": "La La Land",
+      "year": "2016",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "128 min",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "director": "Damien Chazelle",
+      "writer": "Damien Chazelle",
+      "actors": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "Rosemarie DeWitt"
+      ],
+      "synopsis": "Aspiring actress serves lattes to movie stars in between auditions and jazz musician Sebastian scrapes by playing cocktail-party gigs in dingy bars. But as success mounts, they are faced with decisions that fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+      "language": "English, Cantonese",
+      "country": "United States, Hong Kong",
+      "awards": "Won 6 Oscars. 246 wins & 313 nominations total",
+      "imdbRating": "8.0",
+      "imdbVotes": "759,966",
+      "ratings": {
+        "imdb": "8.0/10",
+        "rottenTomatoes": "91%",
+        "metacritic": "94/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt3783958.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt2543164",
+      "title": "Arrival",
+      "year": "2016",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "116 min",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "director": "Denis Villeneuve",
+      "writer": "Eric Heisserer, Ted Chiang",
+      "actors": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker"
+      ],
+      "synopsis": "Linguistics professor Louise Banks leads an elite team of investigators when gigantic spaceships touchdown in 12 locations around the world. As nations teeter on the verge of global war, Banks and her crew must race against time to find a way to communicate with the extraterrestrial visitors. Hoping to unravel the mystery, she takes a chance that could threaten her life and quite possibly all of mankind.",
+      "language": "English, Mandarin, Russian",
+      "country": "Canada, United States",
+      "awards": "Won 1 Oscar. 71 wins & 268 nominations total",
+      "imdbRating": "7.9",
+      "imdbVotes": "852,057",
+      "ratings": {
+        "imdb": "7.9/10",
+        "rottenTomatoes": "94%",
+        "metacritic": "81/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt2543164.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg"
+    },
+    {
+      "id": "tt1856101",
+      "title": "Blade Runner 2049",
+      "year": "2017",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "164 min",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "director": "Denis Villeneuve",
+      "writer": "Hampton Fancher, Michael Green, Philip K. Dick",
+      "actors": [
+        "Harrison Ford",
+        "Ryan Gosling",
+        "Ana de Armas"
+      ],
+      "synopsis": "Thirty years after the events of Blade Runner (1982), a new Blade Runner, L.A.P.D. Officer \"K\" (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former L.A.P.D. Blade Runner, who has been missing for thirty years.",
+      "language": "English",
+      "country": "Spain, Canada, United States",
+      "awards": "Won 2 Oscars. 100 wins & 164 nominations total",
+      "imdbRating": "8.0",
+      "imdbVotes": "751,317",
+      "ratings": {
+        "imdb": "8.0/10",
+        "rottenTomatoes": "88%",
+        "metacritic": "81/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt1856101.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt8946378",
+      "title": "Knives Out",
+      "year": "2019",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "130 min",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Rian Johnson",
+      "writer": "Rian Johnson",
+      "actors": [
+        "Daniel Craig",
+        "Chris Evans",
+        "Ana de Armas"
+      ],
+      "synopsis": "When renowned crime novelist Harlan Thrombey (Christopher Plummer) is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc (Daniel Craig) is mysteriously enlisted to investigate. From Harlan's disfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 52 wins & 114 nominations total",
+      "imdbRating": "7.9",
+      "imdbVotes": "875,016",
+      "ratings": {
+        "imdb": "7.9/10",
+        "rottenTomatoes": "97%",
+        "metacritic": "82/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt8946378.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BZDU5ZTRkYmItZjg0Mi00ZTQwLThjMWItNWM3MTMxMzVjZmVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt1285016",
+      "title": "The Social Network",
+      "year": "2010",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "120 min",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "director": "David Fincher",
+      "writer": "Aaron Sorkin, Ben Mezrich",
+      "actors": [
+        "Jesse Eisenberg",
+        "Andrew Garfield",
+        "Justin Timberlake"
+      ],
+      "synopsis": "On a fall night in 2003, Harvard undergrad and computer programming genius Mark Zuckerberg sits down at his computer and heatedly begins working on a new idea. In a fury of blogging and programming, what begins in his dorm room soon becomes a global social network and a revolution in communication. A mere six years and 500 million friends later, Mark Zuckerberg is the youngest billionaire in history... but for this entrepreneur, success leads to both personal and legal complications.",
+      "language": "English, French",
+      "country": "United States",
+      "awards": "Won 3 Oscars. 174 wins & 188 nominations total",
+      "imdbRating": "7.8",
+      "imdbVotes": "812,001",
+      "ratings": {
+        "imdb": "7.8/10",
+        "rottenTomatoes": "96%",
+        "metacritic": "95/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt1285016.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt1798709",
+      "title": "Her",
+      "year": "2014",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "126 min",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "director": "Spike Jonze",
+      "writer": "Spike Jonze",
+      "actors": [
+        "Joaquin Phoenix",
+        "Amy Adams",
+        "Scarlett Johansson"
+      ],
+      "synopsis": "Theodore is a lonely man in the final stages of his divorce. When he's not working as a letter writer, his down time is spent playing video games and occasionally hanging out with friends. He decides to purchase the new OS1, which is advertised as the world's first artificially intelligent operating system, \"It's not just an operating system, it's a consciousness,\" the ad states. Theodore quickly finds himself drawn in with Samantha, the voice behind his OS1. As they start spending time together they grow closer and closer and eventually find themselves in love. Having fallen in love with his OS, Theodore finds himself dealing with feelings of both great joy and doubt. As an OS, Samantha has powerful intelligence that she uses to help Theodore in ways others hadn't, but how does she help him deal with his inner conflict of being in love with an OS?",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 83 wins & 187 nominations total",
+      "imdbRating": "8.0",
+      "imdbVotes": "725,639",
+      "ratings": {
+        "imdb": "8.0/10",
+        "rottenTomatoes": "95%",
+        "metacritic": "91/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt1798709.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt2267998",
+      "title": "Gone Girl",
+      "year": "2014",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "149 min",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "David Fincher",
+      "writer": "Gillian Flynn",
+      "actors": [
+        "Ben Affleck",
+        "Rosamund Pike",
+        "Neil Patrick Harris"
+      ],
+      "synopsis": "On the occasion of his fifth wedding anniversary, Nick Dunne reports that his wife, Amy, has gone missing. Under pressure from the police and a growing media frenzy, Nick's portrait of a blissful union begins to crumble. Soon his lies, deceits and strange behavior have everyone asking the same dark question: Did Nick Dunne kill his wife?",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 64 wins & 189 nominations total",
+      "imdbRating": "8.1",
+      "imdbVotes": "1,166,585",
+      "ratings": {
+        "imdb": "8.1/10",
+        "rottenTomatoes": "88%",
+        "metacritic": "79/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt2267998.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+    },
+    {
+      "id": "tt6710474",
+      "title": "Everything Everywhere All at Once",
+      "year": "2022",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "139 min",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "director": "Daniel Kwan, Daniel Scheinert",
+      "writer": "Daniel Kwan, Daniel Scheinert",
+      "actors": [
+        "Michelle Yeoh",
+        "Stephanie Hsu",
+        "Jamie Lee Curtis"
+      ],
+      "synopsis": "With her laundromat teetering on the brink of failure and her marriage to wimpy husband Waymond on the rocks, overworked Evelyn Wang struggles to cope with everything, including a tattered relationship with her judgmental father and daughter. And as if facing a gloomy midlife crisis wasn't enough, Evelyn must brace herself up for an unpleasant meeting with an impersonal bureaucrat: Deirdre, the shabbily dressed IRS auditor. However, as the stern agent loses patience, an inexplicable multiverse rift becomes an eye-opening exploration of parallel realities. Will Evelyn jump down the rabbit hole? But how many stars are in the universe? Can weary Evelyn fathom the irrepressible force of possibilities, tap into newfound powers, and prevent an evil entity from destroying the thin, countless layers of the unseen world?",
+      "language": "English, Mandarin, Cantonese",
+      "country": "United States",
+      "awards": "Won 7 Oscars. 408 wins & 382 nominations total",
+      "imdbRating": "7.7",
+      "imdbVotes": "627,115",
+      "ratings": {
+        "imdb": "7.7/10",
+        "rottenTomatoes": "93%",
+        "metacritic": "81/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt6710474.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg"
+    },
+    {
+      "id": "tt1877830",
+      "title": "The Batman",
+      "year": "2022",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "176 min",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Matt Reeves",
+      "writer": "Matt Reeves, Peter Craig, Bob Kane",
+      "actors": [
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Jeffrey Wright"
+      ],
+      "synopsis": "Two years of nights have turned Bruce Wayne into a nocturnal animal. But as he continues to find his way as Gotham's dark knight, Bruce is forced into a game of cat and mouse with his biggest threat so far, a manic killer known as \"The Riddler\" who is filled with rage and determined to expose the corrupt system whilst picking off all of Gotham's key political figures. Working with both established and new allies, Bruce must track down the killer and see him brought to justice, while investigating his father's true legacy and questioning the effect that he has had on Gotham so far as \"The Batman.\"",
+      "language": "English, Spanish, Latin, Italian",
+      "country": "United States",
+      "awards": "Nominated for 3 Oscars. 40 wins & 176 nominations total",
+      "imdbRating": "7.8",
+      "imdbVotes": "923,764",
+      "ratings": {
+        "imdb": "7.8/10",
+        "rottenTomatoes": "85%",
+        "metacritic": "72/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt1877830.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt0087182",
+      "title": "Dune",
+      "year": "1984",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "137 min",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "director": "David Lynch",
+      "writer": "Frank Herbert, David Lynch",
+      "actors": [
+        "Kyle MacLachlan",
+        "Virginia Madsen",
+        "Francesca Annis"
+      ],
+      "synopsis": "In the distant year of 10191, all the planets of the known Universe are under the control of Padishah Emperor Shaddam IV and the most important commodity in the Universe is a substance called the spice \"MELANGE\" which is said to have the power of extending life, expanding the consciousness and even to \"fold space\" ; being able to travel to any distance without physically moving. This spice \"MELANGE\" is said to only be produced in the desert planet of Arrakis, where the FREMEN people have the prophecy of a man who will lead them to true freedom. This \"desert planet\"of Arrakis is also known as DUNE. A secret report of the space \"GUILD\" talks about some circumstances and plans that could jeopardize the production of \"SPICE\" with four planets involved: ARRAKIS, CALADAN, GIEDI PRIME and KAITAIN, a world at least visually very alike to Earth and house of the Emperor of the known Universe. The \"GUILD\" sends a third stage navigator to KAITAIN to ask details from the Emperor and to demand him the killing of young Paul Atreides, son of the Duke Leto Atreides of CALADAN.",
+      "language": "English",
+      "country": "United States, Mexico",
+      "awards": "Nominated for 1 Oscar. 2 wins & 7 nominations total",
+      "imdbRating": "6.3",
+      "imdbVotes": "191,067",
+      "ratings": {
+        "imdb": "6.3/10",
+        "rottenTomatoes": "36%",
+        "metacritic": "41/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0087182.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt0477348",
+      "title": "No Country for Old Men",
+      "year": "2007",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "122 min",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Ethan Coen, Joel Coen",
+      "writer": "Joel Coen, Ethan Coen, Cormac McCarthy",
+      "actors": [
+        "Tommy Lee Jones",
+        "Javier Bardem",
+        "Josh Brolin"
+      ],
+      "synopsis": "In rural Texas, welder and hunter Llewelyn Moss (Josh Brolin) discovers the remains of several drug runners who have all killed each other in an exchange gone violently wrong. Rather than report the discovery to the police, Moss decides to simply take the two million dollars present for himself. This puts the psychopathic killer, Anton Chigurh (Javier Bardem), on his trail as he dispassionately murders nearly every rival, bystander and even employer in his pursuit of his quarry and the money. As Moss desperately attempts to keep one step ahead, the blood from this hunt begins to flow behind him with relentlessly growing intensity as Chigurh closes in. Meanwhile, the laconic Sheriff Ed Tom Bell (Tommy Lee Jones) blithely oversees the investigation even as he struggles to face the sheer enormity of the crimes he is attempting to thwart.",
+      "language": "English, Spanish",
+      "country": "United States",
+      "awards": "Won 4 Oscars. 165 wins & 139 nominations total",
+      "imdbRating": "8.2",
+      "imdbVotes": "1,177,271",
+      "ratings": {
+        "imdb": "8.2/10",
+        "rottenTomatoes": "93%",
+        "metacritic": "92/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0477348.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt4975722",
+      "title": "Moonlight",
+      "year": "2016",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "111 min",
+      "genres": [
+        "Drama"
+      ],
+      "director": "Barry Jenkins",
+      "writer": "Barry Jenkins, Tarell Alvin McCraney",
+      "actors": [
+        "Mahershala Ali",
+        "Naomie Harris",
+        "Trevante Rhodes"
+      ],
+      "synopsis": "Three time periods - young adolescence, mid-teen and young adult - in the life of black-American Chiron is presented. When a child, Chiron lives with his single, crack addict mother Paula in a crime ridden neighborhood in Miami. Chiron is a shy, withdrawn child largely due to his small size and being neglected by his mother, who is more concerned about getting her fixes and satisfying her carnal needs than taking care of him. Because of these issues, Chiron is bullied, the slurs hurled at him which he doesn't understand beyond knowing that they are meant to be hurtful. Besides his same aged Cuban-American friend Kevin, Chiron is given what little guidance he has in life from a neighborhood drug dealer named Juan, who can see that he is neglected, and Juan's caring girlfriend Teresa, whose home acts as a sanctuary away from the bullies and away from Paula's abuse. With this childhood as a foundation, Chiron may have a predetermined path in life, one that will only be magnified in terms of its problems when he reaches his difficult teen years when peer pressure affects what he and many of his peers do, unless he follows Juan's advice of truly making his own decisions for himself.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 3 Oscars. 235 wins & 310 nominations total",
+      "imdbRating": "7.4",
+      "imdbVotes": "349,429",
+      "ratings": {
+        "imdb": "7.4/10",
+        "rottenTomatoes": "98%",
+        "metacritic": "99/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt4975722.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt5712554",
+      "title": "The Grand Tour",
+      "year": "2016–",
+      "type": "series",
+      "rated": "TV-14",
+      "runtime": "2 min",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sport"
+      ],
+      "director": "N/A",
+      "writer": "N/A",
+      "actors": [
+        "Jeremy Clarkson",
+        "James May",
+        "Richard Hammond"
+      ],
+      "synopsis": "Jeremy, Richard and James embark on an adventure across the globe, driving new and exciting automobiles from manufacturers all over the world.",
+      "language": "English",
+      "country": "United Kingdom, United States",
+      "awards": "2 nominations total",
+      "imdbRating": "8.7",
+      "imdbVotes": "93,882",
+      "ratings": {
+        "imdb": "8.7/10"
+      },
+      "totalSeasons": "6",
+      "poster": "/data/posters/tt5712554.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BOGQ1M2Y4ZjMtNWRiNS00YTUzLTkxMzEtZjgzYmZjMGVlMzY5XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt4574334",
+      "title": "Stranger Things",
+      "year": "2016–2025",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "51 min",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "director": "N/A",
+      "writer": "Matt Duffer, Ross Duffer",
+      "actors": [
+        "Millie Bobby Brown",
+        "Finn Wolfhard",
+        "Winona Ryder"
+      ],
+      "synopsis": "When Will Byers suddenly goes missing, the whole town of Hawkins, Indiana, turns upside down. Many people are on the search for Will, including his mother Joyce, his brother Jonathan, his friends Mike, Dustin, and Lucas, Police Chief Jim Hopper, and other notable people. But one thing leads to another, creating a supernatural trail. And things get even weirder when a little girl with a shaved head comes into the story.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 12 Primetime Emmys. 122 wins & 335 nominations total",
+      "imdbRating": "8.6",
+      "imdbVotes": "1,691,532",
+      "ratings": {
+        "imdb": "8.6/10"
+      },
+      "totalSeasons": "5",
+      "poster": "/data/posters/tt4574334.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg"
+    },
+    {
+      "id": "tt0903747",
+      "title": "Breaking Bad",
+      "year": "2008–2013",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "49 min",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "N/A",
+      "writer": "Vince Gilligan",
+      "actors": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Anna Gunn"
+      ],
+      "synopsis": "Walter White is a chemistry genius but works as a chemistry teacher at a high school in Albuquerque, New Mexico. His life drastically changes when he's diagnosed with stage III terminal lung cancer and given a prognosis of two years to live. To ensure that his pregnant wife and disabled teenage son have a financial future, he uses his chemistry background to create and sell the world's finest crystal methamphetamine. To sell his signature \"blue meth,\" he teams up with Jesse Pinkman, a former student of his. The meth makes them very rich very quickly, but it attracts the attention of his DEA brother-in-law, Hank. As Walter and Jesse's status in the drug world escalates, Walter becomes a dangerous criminal, and Jesse becomes a hot-headed salesman. Hank is always hot on his tail, forcing Walter to devise new ways to cover his tracks.",
+      "language": "English, Spanish",
+      "country": "United States",
+      "awards": "Won 16 Primetime Emmys. 172 wins & 269 nominations total",
+      "imdbRating": "9.5",
+      "imdbVotes": "2,602,845",
+      "ratings": {
+        "imdb": "9.5/10",
+        "rottenTomatoes": "96%"
+      },
+      "totalSeasons": "5",
+      "poster": "/data/posters/tt0903747.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+    },
+    {
+      "id": "tt4786824",
+      "title": "The Crown",
+      "year": "2016–2023",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "58 min",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "director": "N/A",
+      "writer": "Peter Morgan",
+      "actors": [
+        "Claire Foy",
+        "Olivia Colman",
+        "Imelda Staunton"
+      ],
+      "synopsis": "This show focuses on Queen Elizabeth II as a young newlywed faced with leading the world's most famous monarchy, while forging a relationship with legendary Prime Minister Sir Winston Churchill. The British Empire is in decline, the political world is in disarray, but a new era is dawning. Peter Morgan's masterfully researched scripts reveal the Queen's private journey behind the public façade with daring frankness. Prepare to see into the coveted world of power and privilege behind the locked doors of Westminster and Buckingham Palace.",
+      "language": "English",
+      "country": "United Kingdom, United States",
+      "awards": "Won 24 Primetime Emmys. 158 wins & 431 nominations total",
+      "imdbRating": "8.6",
+      "imdbVotes": "278,925",
+      "ratings": {
+        "imdb": "8.6/10"
+      },
+      "totalSeasons": "6",
+      "poster": "/data/posters/tt4786824.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BODcyODZlZDMtZGE0Ni00NjBhLWJlYTAtZDdlNWY3MzkwMGVhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt5687612",
+      "title": "Fleabag",
+      "year": "2016–2019",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "27 min",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "N/A",
+      "writer": "Phoebe Waller-Bridge",
+      "actors": [
+        "Phoebe Waller-Bridge",
+        "Sian Clifford",
+        "Olivia Colman"
+      ],
+      "synopsis": "A dry-witted woman, known only as Fleabag, has no filter as she navigates life and love in London while trying to cope with tragedy. The angry, grief-riddled woman tries to heal while rejecting anyone who tries to help her, but Fleabag continues to keep up her bravado through it all. Comic actress Phoebe Waller-Bridge stars as the titular character on the series, which is based on Waller-Bridge's 2013 one-woman show of the same name.",
+      "language": "English",
+      "country": "United Kingdom",
+      "awards": "Won 6 Primetime Emmys. 70 wins & 71 nominations total",
+      "imdbRating": "8.7",
+      "imdbVotes": "245,134",
+      "ratings": {
+        "imdb": "8.7/10"
+      },
+      "totalSeasons": "2",
+      "poster": "/data/posters/tt5687612.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjA4MzU5NzQxNV5BMl5BanBnXkFtZTgwOTg3MDA5NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt7366338",
+      "title": "Chernobyl",
+      "year": "2019",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "330 min",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "director": "N/A",
+      "writer": "Craig Mazin",
+      "actors": [
+        "Jared Harris",
+        "Jessie Buckley",
+        "Stellan Skarsgård"
+      ],
+      "synopsis": "In April 1986, a huge explosion erupted at the Chernobyl nuclear power station in northern Ukraine. This series follows the stories of the men and women, who tried to contain the disaster, as well as those who gave their lives preventing a subsequent and worse one.",
+      "language": "English, Russian, Ukrainian",
+      "country": "United States, United Kingdom",
+      "awards": "Won 10 Primetime Emmys. 87 wins & 60 nominations total",
+      "imdbRating": "9.3",
+      "imdbVotes": "1,031,497",
+      "ratings": {
+        "imdb": "9.3/10"
+      },
+      "totalSeasons": "1",
+      "poster": "/data/posters/tt7366338.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt14452776",
+      "title": "The Bear",
+      "year": "2022–2026",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "N/A",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "N/A",
+      "writer": "Christopher Storer",
+      "actors": [
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri"
+      ],
+      "synopsis": "Carmen Berzatto, a brilliant young chef from the fine-dining world is forced to return home to run his local family sandwich shop - the Original Beef of Chicagoland - after a heartbreaking death in his family. A world away from what he's used to, Carmy must balance the soul-crushing reality of trading in Michelin star restaurants for the small 'business' kitchen filled with strong-willed and obstinate staff and his strained familial relationships, all while grappling with the impact of his brother's suicide.",
+      "language": "English, Spanish",
+      "country": "United States",
+      "awards": "Won 21 Primetime Emmys. 116 wins & 212 nominations total",
+      "imdbRating": "8.5",
+      "imdbVotes": "315,074",
+      "ratings": {
+        "imdb": "8.5/10"
+      },
+      "totalSeasons": "5",
+      "poster": "/data/posters/tt14452776.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjk2NWI5OTctODcwYy00NGRmLWFmN2YtOTZiNzFiYjVlODBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+    },
+    {
+      "id": "tt7660850",
+      "title": "Succession",
+      "year": "2018–2023",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "60 min",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "N/A",
+      "writer": "Jesse Armstrong",
+      "actors": [
+        "Nicholas Braun",
+        "Brian Cox",
+        "Kieran Culkin"
+      ],
+      "synopsis": "The Roy family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their father steps down from the company.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 19 Primetime Emmys. 141 wins & 265 nominations total",
+      "imdbRating": "8.8",
+      "imdbVotes": "346,930",
+      "ratings": {
+        "imdb": "8.8/10"
+      },
+      "totalSeasons": "4",
+      "poster": "/data/posters/tt7660850.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BYTY4YTVkY2QtMjRmOS00YzliLWIxOWQtMTdkOTVkN2UzODNmXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt8111088",
+      "title": "The Mandalorian",
+      "year": "2019–",
+      "type": "series",
+      "rated": "TV-14",
+      "runtime": "40 min",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "director": "N/A",
+      "writer": "Jon Favreau",
+      "actors": [
+        "Pedro Pascal",
+        "Chris Bartlett",
+        "Katee Sackhoff"
+      ],
+      "synopsis": "After the stories of Jango and Boba Fett, another warrior emerges in the Star Wars universe. The Mandalorian is set after the fall of the Empire and before the emergence of the First Order. We follow the travails of a lone gunfighter in the outer reaches of the galaxy far from the authority of the New Republic.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 15 Primetime Emmys. 62 wins & 157 nominations total",
+      "imdbRating": "8.6",
+      "imdbVotes": "647,555",
+      "ratings": {
+        "imdb": "8.6/10"
+      },
+      "totalSeasons": "3",
+      "poster": "/data/posters/tt8111088.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BNjgxZGM0OWUtZGY1MS00MWRmLTk2N2ItYjQyZTI1OThlZDliXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt2356777",
+      "title": "True Detective",
+      "year": "2014–",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "55 min",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "director": "N/A",
+      "writer": "Nic Pizzolatto, Issa López",
+      "actors": [
+        "Vince Vaughn",
+        "Colin Farrell",
+        "Rachel McAdams"
+      ],
+      "synopsis": "In 2012, Louisiana State Police Detectives Rust Cohle and Martin Hart are brought in to revisit a homicide case they worked in 1995. As the inquiry unfolds in present day through separate interrogations, the two former detectives narrate the story of their investigation, reopening unhealed wounds, and drawing into question their supposed solving of a bizarre ritualistic murder in 1995. The timelines braid and converge in 2012 as each man is pulled back into a world they believed they'd left behind. In learning about each other and their killer, it becomes clear that darkness lives on both sides of the law.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 6 Primetime Emmys. 46 wins & 168 nominations total",
+      "imdbRating": "8.8",
+      "imdbVotes": "745,221",
+      "ratings": {
+        "imdb": "8.8/10"
+      },
+      "totalSeasons": "5",
+      "poster": "/data/posters/tt2356777.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BYjgwYzA1NWMtNDYyZi00ZGQyLWI5NTktMDYwZjE2OTIwZWEwXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt11280740",
+      "title": "Severance",
+      "year": "2022–",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "N/A",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "director": "N/A",
+      "writer": "Dan Erickson",
+      "actors": [
+        "Adam Scott",
+        "Britt Lower",
+        "Zach Cherry"
+      ],
+      "synopsis": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 10 Primetime Emmys. 51 wins & 201 nominations total",
+      "imdbRating": "8.6",
+      "imdbVotes": "385,489",
+      "ratings": {
+        "imdb": "8.6/10"
+      },
+      "totalSeasons": "2",
+      "poster": "/data/posters/tt11280740.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+    },
+    {
+      "id": "tt10048342",
+      "title": "The Queen's Gambit",
+      "year": "2020",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "395 min",
+      "genres": [
+        "Drama"
+      ],
+      "director": "N/A",
+      "writer": "Scott Frank, Allan Scott",
+      "actors": [
+        "Anya Taylor-Joy",
+        "Chloe Pirrie",
+        "Bill Camp"
+      ],
+      "synopsis": "Nine year-old orphan Beth Harmon is quiet, sullen, and by all appearances unremarkable. That is, until she plays her first game of chess. Her senses grow sharper, her thinking clearer, and for the first time in her life she feels herself fully in control. By the age of sixteen, she's competing for the U.S. Open championship. But as Beth hones her skills on the professional circuit, the stakes get higher, her isolation grows more frightening, and the thought of escape becomes all the more tempting. Based on the book by Walter Tevis.",
+      "language": "English, French, Spanish, Russian",
+      "country": "United States",
+      "awards": "Won 11 Primetime Emmys. 55 wins & 44 nominations total",
+      "imdbRating": "8.5",
+      "imdbVotes": "660,375",
+      "ratings": {
+        "imdb": "8.5/10"
+      },
+      "totalSeasons": "1",
+      "poster": "/data/posters/tt10048342.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt10986410",
+      "title": "Ted Lasso",
+      "year": "2020–",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "30 min",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sport"
+      ],
+      "director": "N/A",
+      "writer": "Jason Sudeikis, Brendan Hunt, Joe Kelly",
+      "actors": [
+        "Hannah Waddingham",
+        "Brendan Hunt",
+        "Jason Sudeikis"
+      ],
+      "synopsis": "In a shock development struggling English Premier League team AFC Richmond hires American football coach Ted Lasso as its new manager. Lasso knows nothing about soccer/football. With unshakable enthusiasm and positivity he rises to the challenge but little known to him there are forces within the club that don't want him to succeed.",
+      "language": "English",
+      "country": "United States, United Kingdom",
+      "awards": "Won 13 Primetime Emmys. 73 wins & 213 nominations total",
+      "imdbRating": "8.7",
+      "imdbVotes": "448,773",
+      "ratings": {
+        "imdb": "8.7/10"
+      },
+      "totalSeasons": "4",
+      "poster": "/data/posters/tt10986410.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+    },
+    {
+      "id": "tt3032476",
+      "title": "Better Call Saul",
+      "year": "2015–2022",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "46 min",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "N/A",
+      "writer": "Vince Gilligan, Peter Gould",
+      "actors": [
+        "Bob Odenkirk",
+        "Rhea Seehorn",
+        "Jonathan Banks"
+      ],
+      "synopsis": "Before Saul Goodman, he was Jimmy McGill. And if you're calling Jimmy, you're in real trouble. The prequel to \"Breaking Bad\" follows small-time attorney, Jimmy McGill, as he transforms into Walter White's morally challenged lawyer, Saul Goodman.",
+      "language": "English, Spanish, Vietnamese",
+      "country": "United States",
+      "awards": "Nominated for 53 Primetime Emmys. 66 wins & 317 nominations total",
+      "imdbRating": "9.0",
+      "imdbVotes": "838,791",
+      "ratings": {
+        "imdb": "9.0/10"
+      },
+      "totalSeasons": "6",
+      "poster": "/data/posters/tt3032476.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt5753856",
+      "title": "Dark",
+      "year": "2017–2020",
+      "type": "series",
+      "rated": "TV-MA",
+      "runtime": "60 min",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "director": "N/A",
+      "writer": "Baran bo Odar, Jantje Friese",
+      "actors": [
+        "Louis Hofmann",
+        "Karoline Eichhorn",
+        "Lisa Vicari"
+      ],
+      "synopsis": "The first German production from the world's leading Internet TV Network is set in a present-day German town where the disappearance of two young children exposes the double lives and fractured relationships among four families. In 10 hour-long episodes, the story takes on a surprising twist that ties back to the same town in 1986.",
+      "language": "German, English, German Sign Language",
+      "country": "Germany, United States",
+      "awards": "8 wins & 23 nominations total",
+      "imdbRating": "8.7",
+      "imdbVotes": "542,010",
+      "ratings": {
+        "imdb": "8.7/10"
+      },
+      "totalSeasons": "3",
+      "poster": "/data/posters/tt5753856.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BOWJjMGViY2UtNTAzNS00ZGFjLWFkNTMtMDBiMDMyZTM1NTY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,57,380,562_.jpg"
+    },
+    {
+      "id": "tt0245429",
+      "title": "Spirited Away",
+      "year": "2003",
+      "type": "movie",
+      "rated": "PG",
+      "runtime": "124 min",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "director": "Hayao Miyazaki",
+      "writer": "Hayao Miyazaki",
+      "actors": [
+        "Miyu Irino",
+        "Rumi Hiiragi",
+        "Mari Natsuki"
+      ],
+      "synopsis": "The fanciful adventures of a ten-year-old girl named Chihiro, who discovers a secret world when she and her family get lost and venture through a hillside tunnel. When her parents undergo a mysterious transformation, Chihiro must fend for herself as she encounters strange spirits, assorted creatures and a grumpy sorceress who seeks to prevent her from returning to the human world.",
+      "language": "Japanese, English",
+      "country": "Japan, United States",
+      "awards": "Won 1 Oscar. 58 wins & 31 nominations total",
+      "imdbRating": "8.6",
+      "imdbVotes": "964,088",
+      "ratings": {
+        "imdb": "8.6/10",
+        "rottenTomatoes": "96%",
+        "metacritic": "96/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0245429.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt2380307",
+      "title": "Coco",
+      "year": "2017",
+      "type": "movie",
+      "rated": "PG",
+      "runtime": "105 min",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "director": "Adrian Molina, Lee Unkrich",
+      "writer": "Adrian Molina, Matthew Aldrich, Lee Unkrich",
+      "actors": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt"
+      ],
+      "synopsis": "Despite his family's baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "language": "English, Spanish",
+      "country": "United States, Mexico",
+      "awards": "Won 2 Oscars. 113 wins & 42 nominations total",
+      "imdbRating": "8.4",
+      "imdbVotes": "704,092",
+      "ratings": {
+        "imdb": "8.4/10",
+        "rottenTomatoes": "97%",
+        "metacritic": "81/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt2380307.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg"
+    },
+    {
+      "id": "tt4633694",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": "2018",
+      "type": "movie",
+      "rated": "PG",
+      "runtime": "117 min",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "writer": "Phil Lord, Rodney Rothman",
+      "actors": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld"
+      ],
+      "synopsis": "Phil Lord and Christopher Miller, the creative minds behind The Lego Movie and 21 Jump Street, bring their unique talents to a fresh vision of a different Spider-Man Universe, with a groundbreaking visual style that's the first of its kind. \"Spider-Man(TM): Into the Spider-Verse\" introduces Brooklyn teen Miles Morales (Shameik Moore), and the limitless possibilities of the Spider-Verse, where more than one can wear the mask.",
+      "language": "English, Spanish",
+      "country": "Canada, United States",
+      "awards": "Won 1 Oscar. 85 wins & 60 nominations total",
+      "imdbRating": "8.4",
+      "imdbVotes": "777,014",
+      "ratings": {
+        "imdb": "8.4/10",
+        "rottenTomatoes": "97%",
+        "metacritic": "87/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt4633694.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt4729430",
+      "title": "Klaus",
+      "year": "2019",
+      "type": "movie",
+      "rated": "PG",
+      "runtime": "96 min",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "director": "Sergio Pablos, Carlos Martínez López",
+      "writer": "Sergio Pablos, Jim Mahoney, Zach Lewis",
+      "actors": [
+        "Jason Schwartzman",
+        "J.K. Simmons",
+        "Rashida Jones"
+      ],
+      "synopsis": "When Jesper (Jason Schwartzman) distinguishes himself as the postal academy's worst student, he is stationed on a frozen island above the Arctic Circle, where the feuding locals hardly exchange words let alone letters. Jesper is about to give up when he finds an ally in local teacher Alva (Rashida Jones), and discovers Klaus (Oscar® winner J.K. Simmons), a mysterious carpenter who lives alone in a cabin full of handmade toys. These unlikely friendships return laughter to Smeerensburg, forging a new legacy of generous neighbors, magical lore and stockings hung by the chimney with care. An animated Christmas comedy directed by Despicable Me co-creator Sergio Pablos, KLAUS co-stars Rashida Jones, Jason Schwartzman and JK Simmons.",
+      "language": "English, Saami",
+      "country": "Spain, United Kingdom, United States, Austria, Canada, France",
+      "awards": "Nominated for 1 Oscar. 11 wins & 26 nominations total",
+      "imdbRating": "8.2",
+      "imdbVotes": "232,782",
+      "ratings": {
+        "imdb": "8.2/10",
+        "rottenTomatoes": "95%",
+        "metacritic": "65/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt4729430.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt0129167",
+      "title": "The Iron Giant",
+      "year": "1999",
+      "type": "movie",
+      "rated": "PG",
+      "runtime": "86 min",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "director": "Brad Bird",
+      "writer": "Tim McCanlies, Brad Bird, Ted Hughes",
+      "actors": [
+        "Eli Marienthal",
+        "Harry Connick Jr.",
+        "Jennifer Aniston"
+      ],
+      "synopsis": "This is the story of a nine-year-old boy named Hogarth Hughes who makes friends with an innocent alien giant robot that came from outer space. Meanwhile, a paranoid U.S. Government agent named Kent Mansley arrives in town, determined to destroy the giant at all costs. It's up to Hogarth to protect him by keeping him at Dean McCoppin's place in the junkyard.",
+      "language": "English",
+      "country": "United States, Czech Republic, United Kingdom",
+      "awards": "Won 1 BAFTA Award20 wins & 18 nominations total",
+      "imdbRating": "8.1",
+      "imdbVotes": "257,198",
+      "ratings": {
+        "imdb": "8.1/10",
+        "rottenTomatoes": "96%",
+        "metacritic": "85/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0129167.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt2584384",
+      "title": "Jojo Rabbit",
+      "year": "2019",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "108 min",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "director": "Taika Waititi",
+      "writer": "Christine Leunens, Taika Waititi",
+      "actors": [
+        "Roman Griffin Davis",
+        "Thomasin McKenzie",
+        "Scarlett Johansson"
+      ],
+      "synopsis": "A World War II satire that follows a lonely German boy named Jojo (Roman Griffin Davis) whose world view is turned upside down when he discovers his single mother (Scarlett Johansson) is hiding a young Jewish girl (Thomasin McKenzie) in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler (Taika Waititi), Jojo must confront his blind nationalism.",
+      "language": "English, German",
+      "country": "New Zealand, United States, Czech Republic",
+      "awards": "Won 1 Oscar. 53 wins & 191 nominations total",
+      "imdbRating": "7.9",
+      "imdbVotes": "483,917",
+      "ratings": {
+        "imdb": "7.9/10",
+        "rottenTomatoes": "81%",
+        "metacritic": "58/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt2584384.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt3281548",
+      "title": "Little Women",
+      "year": "2019",
+      "type": "movie",
+      "rated": "PG",
+      "runtime": "135 min",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "director": "Greta Gerwig",
+      "writer": "Greta Gerwig, Louisa May Alcott",
+      "actors": [
+        "Saoirse Ronan",
+        "Emma Watson",
+        "Florence Pugh"
+      ],
+      "synopsis": "In 19th-century Massachusetts, with their father away serving in the Civil War, the women of the March family--loving matriarch, Marmee and her four daughters Meg, Jo, Beth, and Amy--are left to fend for themselves. Faced with genteel poverty, fledgling author Jo struggles to make a name for herself in male-dominated New York City; considerate Meg and starts a family; artistically-inclined Amy travels to Paris with affluent Aunt March. The news of shy but nurturing Beth's serious illness reunites the sisters under one roof again, but more than anything in the world--much to the disappointment of handsome next-door neighbor Theodore \"Laurie\" Laurence--fiercely-independent Jo yearns for freedom. Must all stories end with a wedding?",
+      "language": "English, French",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 73 wins & 229 nominations total",
+      "imdbRating": "7.8",
+      "imdbVotes": "283,447",
+      "ratings": {
+        "imdb": "7.8/10",
+        "rottenTomatoes": "95%",
+        "metacritic": "91/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt3281548.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMWMzYjNiZWMtMDg4NS00MDgyLTk5MWItOTFmNjg4NzRhZmExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt8613070",
+      "title": "Portrait of a Lady on Fire",
+      "year": "2020",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "122 min",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "director": "Céline Sciamma",
+      "writer": "Céline Sciamma",
+      "actors": [
+        "Noémie Merlant",
+        "Adèle Haenel",
+        "Luàna Bajrami"
+      ],
+      "synopsis": "In 18th-century France young painter Marianne, is commissioned to do the wedding portrait of Héloïse without her knowing. Therefore, Marianne must observe her model by day to paint her portrait at night. Day by day, the two women become closer as they share Héloïse's last moments of freedom before the impending wedding.",
+      "language": "French, Italian",
+      "country": "France",
+      "awards": "Nominated for 1 BAFTA Award. 59 wins & 155 nominations total",
+      "imdbRating": "8.0",
+      "imdbVotes": "126,866",
+      "ratings": {
+        "imdb": "8.0/10",
+        "rottenTomatoes": "98%",
+        "metacritic": "95/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt8613070.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BZjJlYWJlYmMtNjMyMS00ZDgxLTlmNjAtOTJhMzBiZWM5N2VmXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+    },
+    {
+      "id": "tt7686962",
+      "title": "Amelie",
+      "year": "2017",
+      "type": "movie",
+      "rated": "N/A",
+      "runtime": "N/A",
+      "genres": [
+        "Short"
+      ],
+      "director": "Aurore Damant, Aurore Deman",
+      "writer": "N/A",
+      "actors": [
+        "Marie Carrour"
+      ],
+      "synopsis": "N/A",
+      "language": "N/A",
+      "country": "N/A",
+      "awards": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "ratings": {},
+      "totalSeasons": null,
+      "poster": null,
+      "posterSourceUrl": null
+    },
+    {
+      "id": "tt7984734",
+      "title": "The Lighthouse",
+      "year": "2019",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "109 min",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "director": "Robert Eggers",
+      "writer": "Robert Eggers, Max Eggers",
+      "actors": [
+        "Robert Pattinson",
+        "Willem Dafoe",
+        "Valeriia Karaman"
+      ],
+      "synopsis": "As the wavering cry of the foghorn fills the air, the taciturn former lumberjack, Ephraim Winslow, and the grizzled lighthouse keeper, Thomas Wake, set foot in a secluded and perpetually grey islet off the coast of late-19th-century New England. For the following four weeks of back-breaking work and unfavourable conditions, the tight-lipped men will have no one else for company except for each other, forced to endure irritating idiosyncrasies, bottled-up resentment, and burgeoning hatred. Then, amid bad omens, a furious and unending squall maroons the pale beacon's keepers in the already inhospitable volcanic rock, paving the way for a prolonged period of feral hunger, excruciating agony, manic isolation, and horrible booze-addled visions. Now, the eerie stranglehold of insanity tightens. Is there an escape from the wall-less prison of the mind?",
+      "language": "English",
+      "country": "Canada, United States",
+      "awards": "Nominated for 1 Oscar. 33 wins & 139 nominations total",
+      "imdbRating": "7.4",
+      "imdbVotes": "301,036",
+      "ratings": {
+        "imdb": "7.4/10",
+        "rottenTomatoes": "90%",
+        "metacritic": "83/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt7984734.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt0443706",
+      "title": "Zodiac",
+      "year": "2007",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "157 min",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "director": "David Fincher",
+      "writer": "James Vanderbilt, Robert Graysmith",
+      "actors": [
+        "Jake Gyllenhaal",
+        "Robert Downey Jr.",
+        "Mark Ruffalo"
+      ],
+      "synopsis": "A serial killer in the San Francisco Bay Area taunts police with his letters and cryptic messages. We follow the investigators and reporters in this lightly fictionalized account of the true 1970s' case as they search for the murderer, becoming obsessed with the case. Based on Robert Graysmith's book, the movie's focus is the lives and careers of the detectives and newspaper people.",
+      "language": "English",
+      "country": "United States",
+      "awards": "3 wins & 71 nominations total",
+      "imdbRating": "7.7",
+      "imdbVotes": "671,729",
+      "ratings": {
+        "imdb": "7.7/10",
+        "rottenTomatoes": "90%",
+        "metacritic": "79/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0443706.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BNDFkMTRkZmQtM2I0NC00NjJjLWJlMDctNTNiZWYxYzhjZDZiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+    },
+    {
+      "id": "tt1392214",
+      "title": "Prisoners",
+      "year": "2013",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "153 min",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "director": "Denis Villeneuve",
+      "writer": "Aaron Guzikowski",
+      "actors": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Viola Davis"
+      ],
+      "synopsis": "How far would you go to protect your family? Keller Dover is facing every parent's worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street. Heading the investigation, Detective Loki arrests its driver, Alex Jones, but a lack of evidence forces his release. As the police pursue multiple leads and pressure mounts, knowing his child's life is at stake the frantic Dover decides he has no choice but to take matters into his own hands. But just how far will this desperate father go to protect his family?",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 10 wins & 38 nominations total",
+      "imdbRating": "8.2",
+      "imdbVotes": "922,474",
+      "ratings": {
+        "imdb": "8.2/10",
+        "rottenTomatoes": "81%",
+        "metacritic": "70/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt1392214.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt3397884",
+      "title": "Sicario",
+      "year": "2015",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "121 min",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Denis Villeneuve",
+      "writer": "Taylor Sheridan",
+      "actors": [
+        "Emily Blunt",
+        "Josh Brolin",
+        "Benicio Del Toro"
+      ],
+      "synopsis": "Kate Macer leads a Phoenix based kidnap response unit for the FBI. Following Kate's team leading a raid on a known drug den in nearby Chandler, Kate is recruited to work on a special ops team led by Matt Graver of the CIA, he who is on special assignment for the Department of Defense. They recruited her because they wanted someone with tactical procedures knowledge. Outwardly, the team's mission, which works behind a Delta Force team as its primary gun power as required, is to decapitate a Mexican drug cartel by capturing or dismembering the workings of the main players, cartel head Manuel Díaz, his second in command Guillermo Díaz (Manuel's brother), and drug lord Fausto Alarcón. Kate agrees to the assignment as she feels the work of this team would be more effective in stopping the drug trade in the US than the piecemeal work of her current kidnap response unit. The third on the team is a mysterious Hispanic or Latino man Kate only knows as Alejandro, and who she does not fully trust as she can tell that he is suffering from a very traumatic past. When Kate and the team arrive in El Paso for their first mission, Kate learns that the team's workings are not all they appear on the surface - many of the proceedings which would not be considered above board or legal - despite the end goal being as she knows it to be. Still largely in the dark and only given information on a need to know basis, Kate decides to stick it out with the team if only to discover all that she is not told while still believing in the end goal. She may have changing or at least mixed emotions as she learns more and more about what is going on, including the specific reason why she was recruited.",
+      "language": "English, Spanish, Ukrainian",
+      "country": "United States, Mexico, Hong Kong",
+      "awards": "Nominated for 3 Oscars. 15 wins & 157 nominations total",
+      "imdbRating": "7.7",
+      "imdbVotes": "527,661",
+      "ratings": {
+        "imdb": "7.7/10",
+        "rottenTomatoes": "91%",
+        "metacritic": "82/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt3397884.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt7784604",
+      "title": "Hereditary",
+      "year": "2018",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "127 min",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "director": "Ari Aster",
+      "writer": "Ari Aster",
+      "actors": [
+        "Toni Collette",
+        "Milly Shapiro",
+        "Gabriel Byrne"
+      ],
+      "synopsis": "When Ellen, the matriarch of the Graham family, passes away, her daughter's family begins to unravel cryptic and increasingly terrifying secrets about their ancestry. The more they discover, the more they find themselves trying to outrun the sinister fate they seem to have inherited. Making his feature debut, writer-director Ari Aster unleashes a nightmare vision of a domestic breakdown that exhibits the craft and precision of a nascent auteur, transforming a familial tragedy into something ominous and deeply disquieting, and pushing the horror movie into chilling new terrain with its shattering portrait of heritage gone to hell.",
+      "language": "English, Spanish",
+      "country": "United States",
+      "awards": "52 wins & 112 nominations total",
+      "imdbRating": "7.3",
+      "imdbVotes": "453,527",
+      "ratings": {
+        "imdb": "7.3/10",
+        "rottenTomatoes": "90%",
+        "metacritic": "87/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt7784604.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt8772262",
+      "title": "Midsommar",
+      "year": "2019",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "148 min",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "director": "Ari Aster",
+      "writer": "Ari Aster",
+      "actors": [
+        "Florence Pugh",
+        "Jack Reynor",
+        "Vilhelm Blomgren"
+      ],
+      "synopsis": "Dani (Florence Pugh) and Christian (Jack Reynor) are a young American couple with a relationship on the brink of falling apart. But after a family tragedy keeps them together, Christian invites a grieving Dani to join him and his friends on a trip to a once-in-a-lifetime midsummer festival in a remote Swedish village. What begins as a carefree summer holiday in the North European land of eternal sunlight takes a sinister turn when the insular villagers invite their guests to partake in festivities that render the pastoral paradise increasingly unnerving and viscerally disturbing.",
+      "language": "English, Swedish",
+      "country": "United States, Sweden",
+      "awards": "27 wins & 74 nominations total",
+      "imdbRating": "7.1",
+      "imdbVotes": "481,955",
+      "ratings": {
+        "imdb": "7.1/10",
+        "rottenTomatoes": "83%",
+        "metacritic": "72/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt8772262.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt0993846",
+      "title": "The Wolf of Wall Street",
+      "year": "2013",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "180 min",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "director": "Martin Scorsese",
+      "writer": "Terence Winter, Jordan Belfort",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Jonah Hill",
+        "Margot Robbie"
+      ],
+      "synopsis": "Jordan Belfort (DiCaprio) is Long Island penny stockbroker who serves almost two years in prison for refusing to co-operate in a huge 1990s securities fraud case that involved widespread corruption on Wall Street and in the corporate banking world, including mob infiltration.",
+      "language": "English, French",
+      "country": "United States",
+      "awards": "Nominated for 5 Oscars. 38 wins & 180 nominations total",
+      "imdbRating": "8.2",
+      "imdbVotes": "1,784,314",
+      "ratings": {
+        "imdb": "8.2/10",
+        "rottenTomatoes": "79%",
+        "metacritic": "75/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0993846.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt1853728",
+      "title": "Django Unchained",
+      "year": "2012",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "165 min",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "director": "Quentin Tarantino",
+      "writer": "Quentin Tarantino",
+      "actors": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio"
+      ],
+      "synopsis": "In 1858, a bounty hunter named King Schultz seeks out a slave named Django and buys him because he needs him to find some men he is looking for. After finding them, Django wants to find his wife, Broomhilda, who, along with him, was sold separately by his former owner for trying to escape. Schultz offers to help him if he chooses to stay with him and be his partner. Eventually they learn that she was sold to a plantation in Mississippi. Knowing they can't just go in and say they want her, they come up with a plan so that the owner will welcome them into his home and they can find a way.",
+      "language": "English, German, French, Italian",
+      "country": "United States",
+      "awards": "Won 2 Oscars. 58 wins & 158 nominations total",
+      "imdbRating": "8.5",
+      "imdbVotes": "1,901,438",
+      "ratings": {
+        "imdb": "8.5/10",
+        "rottenTomatoes": "87%",
+        "metacritic": "81/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt1853728.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "tt0110912",
+      "title": "Pulp Fiction",
+      "year": "1994",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "154 min",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "Quentin Tarantino",
+      "writer": "Quentin Tarantino, Roger Avary",
+      "actors": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "synopsis": "Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hitmen who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
+      "language": "English, Spanish, French",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 69 wins & 72 nominations total",
+      "imdbRating": "8.8",
+      "imdbVotes": "2,431,656",
+      "ratings": {
+        "imdb": "8.8/10",
+        "rottenTomatoes": "92%",
+        "metacritic": "95/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0110912.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg"
+    },
+    {
+      "id": "tt0137523",
+      "title": "Fight Club",
+      "year": "1999",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "139 min",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "David Fincher",
+      "writer": "Chuck Palahniuk, Jim Uhls",
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Meat Loaf"
+      ],
+      "synopsis": "A nameless first-person narrator attends support groups in an attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla, another fake attendee of support groups, his life seems to become a little more bearable. However, when he associates himself with Tyler he is dragged into an underground fight club and soap-making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power.",
+      "language": "English",
+      "country": "United States, Germany",
+      "awards": "Nominated for 1 Oscar. 12 wins & 38 nominations total",
+      "imdbRating": "8.8",
+      "imdbVotes": "2,601,857",
+      "ratings": {
+        "imdb": "8.8/10",
+        "rottenTomatoes": "81%",
+        "metacritic": "67/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0137523.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+    },
+    {
+      "id": "tt0133093",
+      "title": "The Matrix",
+      "year": "1999",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "136 min",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "writer": "Lilly Wachowski, Lana Wachowski",
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ],
+      "synopsis": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. As a rebel against the machines, Neo must confront the agents: super-powerful computer programs devoted to stopping Neo and the entire human rebellion.",
+      "language": "English",
+      "country": "United States, Australia",
+      "awards": "Won 4 Oscars. 42 wins & 52 nominations total",
+      "imdbRating": "8.7",
+      "imdbVotes": "2,243,093",
+      "ratings": {
+        "imdb": "8.7/10",
+        "rottenTomatoes": "83%",
+        "metacritic": "73/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0133093.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+    },
+    {
+      "id": "tt2866360",
+      "title": "Coherence",
+      "year": "2013",
+      "type": "movie",
+      "rated": "Not Rated",
+      "runtime": "89 min",
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "director": "James Ward Byrkit",
+      "writer": "James Ward Byrkit, Alex Manugian",
+      "actors": [
+        "Emily Baldoni",
+        "Maury Sterling",
+        "Nicholas Brendon"
+      ],
+      "synopsis": "On the night of an astronomical anomaly, eight friends at a dinner party experience a troubling chain of reality bending events.",
+      "language": "English",
+      "country": "United States, United Kingdom",
+      "awards": "6 wins & 6 nominations total",
+      "imdbRating": "7.2",
+      "imdbVotes": "168,584",
+      "ratings": {
+        "imdb": "7.2/10",
+        "rottenTomatoes": "89%",
+        "metacritic": "65/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt2866360.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BNzQ3ODUzNDY2M15BMl5BanBnXkFtZTgwNzg0ODY2MTE@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt0470752",
+      "title": "Ex Machina",
+      "year": "2014",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "108 min",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "director": "Alex Garland",
+      "writer": "Alex Garland",
+      "actors": [
+        "Alicia Vikander",
+        "Domhnall Gleeson",
+        "Oscar Isaac"
+      ],
+      "synopsis": "Caleb, a 26 year old programmer at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+      "language": "English",
+      "country": "United Kingdom, United States",
+      "awards": "Won 1 Oscar. 74 wins & 162 nominations total",
+      "imdbRating": "7.7",
+      "imdbVotes": "633,967",
+      "ratings": {
+        "imdb": "7.7/10",
+        "rottenTomatoes": "92%",
+        "metacritic": "78/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt0470752.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt2798920",
+      "title": "Annihilation",
+      "year": "2018",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "115 min",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Horror"
+      ],
+      "director": "Alex Garland",
+      "writer": "Alex Garland, Jeff VanderMeer",
+      "actors": [
+        "Natalie Portman",
+        "Jennifer Jason Leigh",
+        "Tessa Thompson"
+      ],
+      "synopsis": "A biologist's husband disappears. She puts her name forward for an expedition into an environmental disaster zone, but does not find what she's expecting. The expedition team is made up of the biologist, an anthropologist, a psychologist, a surveyor, and a linguist.",
+      "language": "English",
+      "country": "United Kingdom, United States",
+      "awards": "17 wins & 63 nominations total",
+      "imdbRating": "6.8",
+      "imdbVotes": "391,083",
+      "ratings": {
+        "imdb": "6.8/10",
+        "rottenTomatoes": "88%",
+        "metacritic": "79/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt2798920.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt2872718",
+      "title": "Nightcrawler",
+      "year": "2014",
+      "type": "movie",
+      "rated": "R",
+      "runtime": "117 min",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Dan Gilroy",
+      "writer": "Dan Gilroy",
+      "actors": [
+        "Jake Gyllenhaal",
+        "Rene Russo",
+        "Bill Paxton"
+      ],
+      "synopsis": "NIGHTCRAWLER is a thriller set in the nocturnal underbelly of contemporary Los Angeles. Jake Gyllenhaal stars as Lou Bloom, a driven young man desperate for work who discovers the high-speed world of L.A. crime journalism. Finding a group of freelance camera crews who film crashes, fires, murder and other mayhem, Lou muscles into the cut-throat, dangerous realm of nightcrawling - where each police siren wail equals a possible windfall and victims are converted into dollars and cents. Aided by Rene Russo as Nina, a veteran of the blood-sport that is local TV news, Lou blurs the line between observer and participant to become the star of his own story.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 46 wins & 126 nominations total",
+      "imdbRating": "7.8",
+      "imdbVotes": "662,221",
+      "ratings": {
+        "imdb": "7.8/10",
+        "rottenTomatoes": "95%",
+        "metacritic": "76/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt2872718.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BYjMwMmI5MWQtOTU4OS00OTAyLTg0OTYtNmQ5YzExZTQ3ZWJhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "tt6644200",
+      "title": "A Quiet Place",
+      "year": "2018",
+      "type": "movie",
+      "rated": "PG-13",
+      "runtime": "90 min",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "director": "John Krasinski",
+      "writer": "Bryan Woods, Scott Beck, John Krasinski",
+      "actors": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds"
+      ],
+      "synopsis": "In a devastated Earth overrun by invincible predators of a possible extraterrestrial origin, the Abbotts find themselves struggling to survive in the isolation of upstate New York, defined by a new era of utter silence. Indeed, as this new type of invader is attracted to noise, even the slightest of sounds can be deadly; however, it's been already twelve months since the powerful monsters' first sightings, and this resilient family still stands strong. Of course, learning the rules of survival in this muted dystopia is essential; nevertheless, now, of all times, an otherwise joyous event puts in jeopardy the already fragile stability. And now, more than ever, the Abbotts must not make a sound.",
+      "language": "English, American Sign ",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 38 wins & 129 nominations total",
+      "imdbRating": "7.5",
+      "imdbVotes": "652,123",
+      "ratings": {
+        "imdb": "7.5/10",
+        "rottenTomatoes": "96%",
+        "metacritic": "82/100"
+      },
+      "totalSeasons": null,
+      "poster": "/data/posters/tt6644200.jpg",
+      "posterSourceUrl": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg"
+    }
+  ]
+}
