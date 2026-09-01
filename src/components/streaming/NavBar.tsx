@@ -73,19 +73,6 @@ function PillNav({ links }: { links: string[] }) {
         );
       })}
 
-      <a
-        href="https://buddyaiv01-maker.github.io/Rosty/"
-        aria-label="Back to UI Gallery"
-        title="Back to UI Gallery"
-        className="grid h-9 w-9 shrink-0 place-items-center rounded-full"
-        style={{ color: "var(--r-text-muted)" }}
-      >
-        <motion.svg whileTap={{ scale: 0.85 }} width="16" height="16" viewBox="0 0 16 16" fill="none">
-          <rect x="1.5" y="2" width="5.5" height="12" rx="1.5" stroke="currentColor" strokeWidth="1.4" />
-          <rect x="9" y="2" width="5.5" height="12" rx="1.5" stroke="currentColor" strokeWidth="1.4" />
-        </motion.svg>
-      </a>
-
       <AnimatePresence>
         {burst && (
           <motion.span
@@ -208,16 +195,6 @@ export default function NavBar() {
             boxShadow: "var(--r-shadow)",
           }}
         />
-        <a
-          href="https://buddyaiv01-maker.github.io/Rosty/"
-          className="hidden rounded-full px-3 py-1.5 text-xs font-semibold sm:block"
-          style={{
-            border: "1px solid var(--r-border)",
-            color: "var(--r-text-muted)",
-          }}
-        >
-          ← UI Gallery
-        </a>
       </div>
     </nav>
   );
