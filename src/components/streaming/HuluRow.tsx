@@ -16,8 +16,8 @@ function HuluCard({ title, onOpen }: { title: Title; onOpen: (t: Title) => void 
       onMouseLeave={() => setHovered(false)}
       className="group relative shrink-0 cursor-pointer overflow-hidden transition-all duration-300"
       style={{
-        width: "clamp(170px, 20vw, 240px)",
-        aspectRatio: "16/9",
+        width: "clamp(150px, 16vw, 210px)",
+        aspectRatio: "2/3",
         borderRadius: isMaterial ? "4px" : "var(--r-radius)",
         border: "1px solid var(--r-border)",
         boxShadow: hovered ? "var(--r-shadow-lg)" : isSoft ? "var(--r-shadow)" : "none",
