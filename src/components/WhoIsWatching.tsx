@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { useTheme } from "../theme/ThemeContext";
+import { useTheme, cssVars } from "../theme/ThemeContext";
 
 type Profile = { name: string; gradient: [string, string] };
 
@@ -27,6 +27,7 @@ export default function WhoIsWatching({ onSelect }: { onSelect: () => void }) {
       transition={{ duration: 0.5, ease: "easeOut" }}
       className="fixed inset-0 z-[100] flex flex-col items-center justify-center px-6"
       style={{
+        ...cssVars(style),
         background: "var(--r-bg)",
         backgroundImage: "var(--r-bg-image)",
       }}
