@@ -61,7 +61,16 @@ export default function StreamingPage({ style }: { style: StyleConfig }) {
 
         <Footer />
         <DetailModal title={selected} onClose={() => setSelected(null)} onPlay={setPlaying} similar={titles.slice(0, 6)} />
-        <AnimatePresence>{playing && <PlayerScreen title={playing} onClose={() => setPlaying(null)} />}</AnimatePresence>
+        <AnimatePresence>
+          {playing && (
+            <PlayerScreen
+              title={playing}
+              upNext={titles.filter((t) => t.id !== playing.id).slice(0, 8)}
+              onClose={() => setPlaying(null)}
+              onSwitch={setPlaying}
+            />
+          )}
+        </AnimatePresence>
       </div>
     </ThemeContext.Provider>
   );
