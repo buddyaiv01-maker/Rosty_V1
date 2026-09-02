@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { AnimatePresence } from "framer-motion";
 import { ThemeContext, cssVars } from "../../theme/ThemeContext";
 import type { StyleConfig } from "../../data/styles";
 import { buildRows, loadTitles, type Title } from "../../data/content";
@@ -6,14 +7,15 @@ import NavBar from "./NavBar";
 import HuluHero from "./HuluHero";
 import FilterBar from "./FilterBar";
 import HuluRow from "./HuluRow";
-import BrandRow from "./BrandRow";
 import Footer from "./Footer";
 import DetailModal from "./DetailModal";
+import PlayerScreen from "./PlayerScreen";
 
 export default function StreamingPage({ style }: { style: StyleConfig }) {
   const [titles, setTitles] = useState<Title[] | null>(null);
   const [genre, setGenre] = useState("All");
   const [selected, setSelected] = useState<Title | null>(null);
+  const [playing, setPlaying] = useState<Title | null>(null);
 
   useEffect(() => {
     loadTitles().then(setTitles);
@@ -50,14 +52,16 @@ export default function StreamingPage({ style }: { style: StyleConfig }) {
         }}
       >
         <NavBar />
-        <HuluHero title={featured} onOpen={setSelected} />
-        <BrandRow />
+        <HuluHero title={featured} onOpen={setSelected} onPlay={setPlaying} />
         <FilterBar active={genre} onChange={setGenre} />
 
-        {huluRows.map((r) => (r.titles.length ? <HuluRow key={r.label} row={r} onOpen={setSelected} /> : null))}
+        {huluRows.map((r) =>
+          r.titles.length ? <HuluRow key={r.label} row={r} onOpen={setSelected} onPlay={setPlaying} /> : null,
+        )}
 
         <Footer />
-        <DetailModal title={selected} onClose={() => setSelected(null)} similar={titles.slice(0, 6)} />
+        <DetailModal title={selected} onClose={() => setSelected(null)} onPlay={setPlaying} similar={titles.slice(0, 6)} />
+        <AnimatePresence>{playing && <PlayerScreen title={playing} onClose={() => setPlaying(null)} />}</AnimatePresence>
       </div>
     </ThemeContext.Provider>
   );

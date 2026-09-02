@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useTheme } from "../../theme/ThemeContext";
 import type { Row, Title } from "../../data/content";
 
-function HuluCard({ title, onOpen }: { title: Title; onOpen: (t: Title) => void }) {
+function HuluCard({ title, onOpen, onPlay }: { title: Title; onOpen: (t: Title) => void; onPlay: (t: Title) => void }) {
   const style = useTheme();
   const [hovered, setHovered] = useState(false);
   const isSoft = style.motion === "soft-press";
@@ -11,7 +11,7 @@ function HuluCard({ title, onOpen }: { title: Title; onOpen: (t: Title) => void 
 
   return (
     <div
-      onClick={() => onOpen(title)}
+      onClick={() => onPlay(title)}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
       className="group relative shrink-0 cursor-pointer overflow-hidden transition-all duration-300"
@@ -38,7 +38,11 @@ function HuluCard({ title, onOpen }: { title: Title; onOpen: (t: Title) => void 
       <button
         className="absolute right-2 top-2 grid h-6 w-6 place-items-center rounded-full text-xs opacity-0 transition-opacity group-hover:opacity-100"
         style={{ background: "rgba(0,0,0,0.55)", color: "#fff" }}
-        onClick={(e) => e.stopPropagation()}
+        onClick={(e) => {
+          e.stopPropagation();
+          onOpen(title);
+        }}
+        aria-label="More info"
       >
         ⋮
       </button>
@@ -60,7 +64,17 @@ function HuluCard({ title, onOpen }: { title: Title; onOpen: (t: Title) => void 
   );
 }
 
-export default function HuluRow({ row, onOpen, viewAllLabel }: { row: Row; onOpen: (t: Title) => void; viewAllLabel?: string }) {
+export default function HuluRow({
+  row,
+  onOpen,
+  onPlay,
+  viewAllLabel,
+}: {
+  row: Row;
+  onOpen: (t: Title) => void;
+  onPlay: (t: Title) => void;
+  viewAllLabel?: string;
+}) {
   return (
     <section className="px-5 py-4 sm:px-8">
       <div className="mb-3 flex items-center gap-3">
@@ -76,7 +90,7 @@ export default function HuluRow({ row, onOpen, viewAllLabel }: { row: Row; onOpe
       </div>
       <div className="no-scrollbar flex gap-3 overflow-x-auto pb-3">
         {row.titles.map((t) => (
-          <HuluCard key={t.id} title={t} onOpen={onOpen} />
+          <HuluCard key={t.id} title={t} onOpen={onOpen} onPlay={onPlay} />
         ))}
       </div>
     </section>

@@ -1,7 +1,15 @@
 import { useTheme } from "../../theme/ThemeContext";
 import type { Title } from "../../data/content";
 
-export default function HuluHero({ title, onOpen }: { title: Title; onOpen: (t: Title) => void }) {
+export default function HuluHero({
+  title,
+  onOpen,
+  onPlay,
+}: {
+  title: Title;
+  onOpen: (t: Title) => void;
+  onPlay: (t: Title) => void;
+}) {
   const style = useTheme();
   const isGlass = style.motion === "glass-morph";
   const isSoft = style.motion === "soft-press";
@@ -22,6 +30,7 @@ export default function HuluHero({ title, onOpen }: { title: Title; onOpen: (t: 
         )}
         <div className="absolute inset-0" style={{ background: "linear-gradient(90deg, var(--r-bg) 8%, rgba(0,0,0,0.15) 45%, transparent 70%)" }} />
         <div className="absolute inset-0" style={{ background: "linear-gradient(0deg, var(--r-bg) 2%, transparent 45%)" }} />
+        <div className="absolute inset-0" style={{ background: "linear-gradient(180deg, var(--r-bg) 0%, transparent 18%)" }} />
       </div>
 
       <div className="relative z-10 max-w-xl px-6 pb-14 sm:px-10 sm:pb-16">
@@ -55,6 +64,7 @@ export default function HuluHero({ title, onOpen }: { title: Title; onOpen: (t: 
 
         <div className="mt-6 flex items-center gap-3">
           <button
+            onClick={() => onPlay(title)}
             className="flex items-center gap-2 px-6 py-3 text-sm font-bold transition-transform active:scale-95"
             style={{
               background: "var(--r-text)",

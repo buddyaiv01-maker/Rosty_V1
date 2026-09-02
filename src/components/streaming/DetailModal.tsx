@@ -5,10 +5,12 @@ import type { Title } from "../../data/content";
 export default function DetailModal({
   title,
   onClose,
+  onPlay,
   similar,
 }: {
   title: Title | null;
   onClose: () => void;
+  onPlay: (t: Title) => void;
   similar: Title[];
 }) {
   const style = useTheme();
@@ -85,6 +87,10 @@ export default function DetailModal({
 
               <div className="mt-6 flex gap-3">
                 <button
+                  onClick={() => {
+                    onPlay(title);
+                    onClose();
+                  }}
                   className="rounded-full px-5 py-2.5 text-sm font-bold"
                   style={{ background: "var(--r-accent)", color: "var(--r-bg)", borderRadius: "var(--r-radius)" }}
                 >
