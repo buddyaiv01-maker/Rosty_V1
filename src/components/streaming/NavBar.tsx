@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 import { useTheme } from "../../theme/ThemeContext";
 
 const DEFAULT_LINKS = ["Home", "Movies", "Series", "My List"];
@@ -8,13 +8,6 @@ function PillNav({ links }: { links: string[] }) {
   const [query, setQuery] = useState("");
   const [searchOpen, setSearchOpen] = useState(false);
   const [active, setActive] = useState(links[0]);
-  const [burst, setBurst] = useState<{ id: number; x: number; y: number } | null>(null);
-
-  const handleClick = (l: string, e: React.MouseEvent<HTMLButtonElement>) => {
-    setActive(l);
-    const btn = e.currentTarget;
-    setBurst({ id: Date.now(), x: btn.offsetLeft + btn.offsetWidth / 2, y: btn.offsetTop + btn.offsetHeight / 2 });
-  };
 
   return (
     <div
@@ -53,7 +46,7 @@ function PillNav({ links }: { links: string[] }) {
         return (
           <motion.button
             key={l}
-            onClick={(e) => handleClick(l, e)}
+            onClick={() => setActive(l)}
             whileTap={{ scale: 0.93 }}
             className={`relative whitespace-nowrap px-3 py-2 text-sm font-medium sm:px-4 ${i === 0 ? "block" : "hidden sm:block"}`}
             style={{
@@ -73,21 +66,6 @@ function PillNav({ links }: { links: string[] }) {
           </motion.button>
         );
       })}
-
-      <AnimatePresence>
-        {burst && (
-          <motion.span
-            key={burst.id}
-            initial={{ opacity: 0.5, scale: 0.3 }}
-            animate={{ opacity: 0, scale: 2.4 }}
-            exit={{ opacity: 0 }}
-            transition={{ duration: 0.5, ease: "easeOut" }}
-            onAnimationComplete={() => setBurst(null)}
-            className="pointer-events-none absolute h-16 w-16 -translate-x-1/2 -translate-y-1/2 rounded-full"
-            style={{ background: "var(--r-accent)", left: burst.x, top: burst.y }}
-          />
-        )}
-      </AnimatePresence>
     </div>
   );
 }
